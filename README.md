@@ -1,6 +1,6 @@
 # react-native-chat
 
-I create this repository to save my studies about Chat with React Native, for this I used Firebase FireStorage to save the messages.
+I create this repository to save my studies about Chat with React Native, for this I used Firebase FireStorage to save the messages and this [Tutorial](https://www.youtube.com/watch?v=E81jfHan8MM).
 
 ## :fire: Preview
 
